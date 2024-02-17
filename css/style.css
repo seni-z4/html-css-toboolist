@@ -11,3 +11,65 @@ body{
 .page-header{
   background-color: #FFFF;
 }
+
+.logo{
+  width: 200px;
+  padding: 11px 4px 6px 11px;
+}
+
+.card{
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card1{
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.content{
+  padding: 60px 0;
+}
+
+.container{
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.button-img{
+  background-color: #17A9F5;
+}
+
+.solid{
+  border: 1px solid #bbb;
+margin:10px 0 ;
+}
+.newtask{
+  padding: 10px 0;
+}
+.newtask-item{
+  list-style: none;
+  padding: 10px 0;
+}
+
+.header{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.correct-icon{
+display: inline-block;
+width: 30px;
+height: 30px;
+/* background-color: green; */
+color: green;
+border-radius: 50%;
+line-height: 31px;
+vertical-align: middle;
+margin-right: 10px;
+text-align: center;
+border: 1px solid green;
+}
